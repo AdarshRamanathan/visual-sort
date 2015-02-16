@@ -1,4 +1,4 @@
-public class MainClass
+public class DriverClass
 {
     private static VisualSort.SortingAlgorithm selectionSort = new VisualSort.SortingAlgorithm() {
        public void sort(int[] arr)
